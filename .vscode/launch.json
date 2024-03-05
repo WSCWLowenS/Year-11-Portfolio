@@ -14,13 +14,3 @@
     ]
 }
 
-{
-  "background.fullscreen": {
-    "image": ".topnav a", // url of your image
-    // "image": ["https://www.freepik.com/free-photo/ultra-detailed-nebula-abstrack-wallpaper-10_39994476.htm#query=background&position=4&from_view=keyword&track=sph&uujd=6ac86799-39ff-45d7-8a71-a0974a9f84ee"], // An array may be useful when set interval for carousel
-    "opacity": 0.91, // 0.85 ~ 0.95 recommended
-    "size": "cover", // also css, `cover` to self-adaption (recommended)，or `contain`、`200px 200px`
-    "position": "center", // alias to `background-position`, default `center`
-    "interval": 0 // seconds of interval for carousel, default `0` to disabled.
-  }
-}
